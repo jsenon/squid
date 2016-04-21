@@ -1,6 +1,6 @@
 FROM ubuntu:latest
-ENV http_proxy http://fr0-vsiaas-649:3128
-ENV https_proxy  http://fr0-vsiaas-649:3128
+ENV http_proxy xxx
+ENV https_proxy  xxxx
 
 MAINTAINER julien.senon@gmail.com	
 
